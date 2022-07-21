@@ -1,0 +1,72 @@
+
+situação das contas
+Conta NuBank- Saldo:1000.0, limite Disponível: 
+Conta Caixa- Saldo:1000.0, limite Disponível: 
+
+Lista: todas as compras:
+Compra: 4/5/2022/; Amazon-Marketplace 5/9; -31.99; NuBank;(Crédito);[9x]
+Compra: 4/5/2022/; Loja 6/6; -17.06; NuBank;(Crédito);[6x]
+Compra: 4/5/2022/; Amazon.Com.Br 6/8; -30.41; NuBank;(Crédito);[8x]
+Compra: 4/5/2022/; Amazon-Marketplace 9/10; -148.85; NuBank;(Crédito);[10x]
+Compra: 11/5/2022/; Pagamento recebido; 658.7; NuBank;(Crédito)
+Compra: 16/5/2022/; Farmacia; -60.95; NuBank;(Crédito)
+Compra: 21/5/2022/; Mercado Atacadista; -147.78; NuBank;(Crédito)
+Compra: 24/5/2022/; Mercado P; -23.98; NuBank;(Crédito)
+Compra: 30/5/2022/; Hortifruti; -177.06; NuBank;(Crédito)
+Compra: 3/6/2022/; Loja presentes; -150.5; NuBank;(Crédito)
+Compra: 1/5/2022/; Transferência enviada pelo Pix - POSTO ; -200.0; Caixa; (Debito)
+Compra: 2/5/2022/; Pagamento de boleto efetuado - ENERGISA ; -113.16; Caixa; (Debito)
+Compra: 2/5/2022/; Transferência Recebida – Empresa; 1000.0; Caixa; (Debito)
+Compra: 2/5/2022/; Transferência enviada pelo Pix – fulano; -28.2; Caixa; (Debito)
+Compra: 2/5/2022/; Compra no débito – lanchonete UFMS; -13.0; Caixa; (Debito)
+Compra: 5/5/2022/; Compra no débito – Restaurante M; -44.0; Caixa; (Debito)
+Compra: 6/5/2022/; Recarga de celular; -13.0; Caixa; (Debito)
+Compra: 6/5/2022/; Compra no débito – Pag*M; -5.0; Caixa; (Debito)
+Compra: 7/5/2022/; Compra no débito – Conveniência; -52.75; Caixa; (Debito)
+Compra: 9/5/2022/; Compra no débito - Mato Grosso Drive; -13.8; Caixa; (Debito)
+Compra: 10/5/2022/; Pagamento de boleto efetuado - WL COBRANCAS LTDA; -120.0; Caixa; (Debito)
+Compra: 10/5/2022/; Compra no débito – Mercado P; -63.36; Caixa; (Debito)
+Compra: 11/5/2022/; Pagamento de boleto efetuado - NU PAGAMENTOS SA; -658.7; Caixa; (Debito)
+Compra: 13/5/2022/; Recarga de celular; -13.0; Caixa; (Debito)
+Compra: 13/5/2022/; Compra no débito - Restaurante M; -45.0; Caixa; (Debito)
+Compra: 13/5/2022/; Compra no débito - Posto C; -90.09; Caixa; (Debito)
+Compra: 16/5/2022/; Compra no débito – Farmacia; -5.24; Caixa; (Debito)
+Compra: 18/5/2022/; Compra no débito – Padaria; -10.5; Caixa; (Debito)
+Compra: 23/5/2022/; Recarga de celular; -12.0; Caixa; (Debito)
+
+Lista: somente as compras debitos:
+Compra: 1/5/2022/; Transferência enviada pelo Pix - POSTO ; -200.0; Caixa; (Debito)
+Compra: 2/5/2022/; Pagamento de boleto efetuado - ENERGISA ; -113.16; Caixa; (Debito)
+Compra: 2/5/2022/; Transferência Recebida – Empresa; 1000.0; Caixa; (Debito)
+Compra: 2/5/2022/; Transferência enviada pelo Pix – fulano; -28.2; Caixa; (Debito)
+Compra: 2/5/2022/; Compra no débito – lanchonete UFMS; -13.0; Caixa; (Debito)
+Compra: 5/5/2022/; Compra no débito – Restaurante M; -44.0; Caixa; (Debito)
+Compra: 6/5/2022/; Recarga de celular; -13.0; Caixa; (Debito)
+Compra: 6/5/2022/; Compra no débito – Pag*M; -5.0; Caixa; (Debito)
+Compra: 7/5/2022/; Compra no débito – Conveniência; -52.75; Caixa; (Debito)
+Compra: 9/5/2022/; Compra no débito - Mato Grosso Drive; -13.8; Caixa; (Debito)
+Compra: 10/5/2022/; Pagamento de boleto efetuado - WL COBRANCAS LTDA; -120.0; Caixa; (Debito)
+Compra: 10/5/2022/; Compra no débito – Mercado P; -63.36; Caixa; (Debito)
+Compra: 11/5/2022/; Pagamento de boleto efetuado - NU PAGAMENTOS SA; -658.7; Caixa; (Debito)
+Compra: 13/5/2022/; Recarga de celular; -13.0; Caixa; (Debito)
+Compra: 13/5/2022/; Compra no débito - Restaurante M; -45.0; Caixa; (Debito)
+Compra: 13/5/2022/; Compra no débito - Posto C; -90.09; Caixa; (Debito)
+Compra: 16/5/2022/; Compra no débito – Farmacia; -5.24; Caixa; (Debito)
+Compra: 18/5/2022/; Compra no débito – Padaria; -10.5; Caixa; (Debito)
+Compra: 23/5/2022/; Recarga de celular; -12.0; Caixa; (Debito)
+
+Lista: somente as compras creditos:
+Compra: 4/5/2022/; Amazon-Marketplace 5/9; -31.99; NuBank;(Crédito);[9x]
+Compra: 4/5/2022/; Loja 6/6; -17.06; NuBank;(Crédito);[6x]
+Compra: 4/5/2022/; Amazon.Com.Br 6/8; -30.41; NuBank;(Crédito);[8x]
+Compra: 4/5/2022/; Amazon-Marketplace 9/10; -148.85; NuBank;(Crédito);[10x]
+Compra: 11/5/2022/; Pagamento recebido; 658.7; NuBank;(Crédito)
+Compra: 16/5/2022/; Farmacia; -60.95; NuBank;(Crédito)
+Compra: 21/5/2022/; Mercado Atacadista; -147.78; NuBank;(Crédito)
+Compra: 24/5/2022/; Mercado P; -23.98; NuBank;(Crédito)
+Compra: 30/5/2022/; Hortifruti; -177.06; NuBank;(Crédito)
+Compra: 3/6/2022/; Loja presentes; -150.5; NuBank;(Crédito)
+
+situação das contas
+Conta NuBank- Saldo:1000.0, limite Disponível: 
+Conta Caixa- Saldo:499.19995, limite Disponível: 
